@@ -1,0 +1,91 @@
+		body {
+			background-image: url(https://images.designtrends.com/wp-content/uploads/2015/11/18043918/Canvas-Paper-Texture.jpg);
+			background-size: cover;
+			width: 1920px;
+			height: 1000px;
+			margin: auto;
+			text-align: center;
+			overflow-x: hidden;
+		}
+
+		header {			
+			background-image: url(https://www.manginasal.com/wp-content/themes/manginasal/images/MI-topleaf.png);	
+			background-repeat: no-repeat;
+			width: 1920px;
+			height: 200px;
+			background-size: 100%;
+			padding: 10px;
+			letter-spacing: 5px;
+			margin: auto;
+		}
+
+		header ul .l1 {
+			display: inline;
+			color: white;
+			padding-left: 45px;
+			font-size: 35px;
+			font-family: Berlin Sans FB;
+		}
+
+		header ul .l1 a {
+			color: white;
+			text-decoration: none;
+		}
+
+		header ul .l1 a:hover {
+			color: goldenrod;
+			font-size: 37px;
+			transition: .3s ease;
+		}
+
+		header ul .l1 img {
+			width: 150px;
+			height: 75px;
+			float: left;
+			margin-top: -10px;
+		}
+
+		header ul .l1 #active {
+			color: goldenrod;
+		}
+
+		#d1 img {
+			width: 20%;
+			height: 20%;
+			border-style: inset;
+			border-width: 6px;
+			border-color: yellow;
+			border-radius: 50%;
+		}
+
+		h1 {
+			font-size: 45px;
+			font-family: Bernard MT;
+			color: green;
+			text-shadow: 0 0 10px yellow;
+			text-decoration: underline;
+			margin-left: -5px;
+		}
+
+
+		#d2 {
+			background: green;
+			padding: 40px;
+			margin-left: -500px;
+		}
+
+		#d2 ul .l2 {						
+			color: yellow;
+			font-size: 35px;
+			font-family: Berlin Sans FB;
+			display: inline;
+
+		}
+
+		#d2 ul .l2 a img {
+			width: 100px;
+			height: 100px;
+			float: right;
+			margin-top: -35px;
+			margin-right: 150px;
+		}
